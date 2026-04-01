@@ -1,0 +1,3 @@
+Emmanuel,25,Guadalajara
+Ana,30,CDMX
+Luis,22,Monterrey
