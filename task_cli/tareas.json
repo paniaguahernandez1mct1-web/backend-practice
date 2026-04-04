@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "tarea": "Practicar Linux",
+        "completada": true
+    },
+    {
+        "id": 2,
+        "tarea": "Estudiar Python",
+        "completada": true
+    },
+    {
+        "id": 3,
+        "tarea": "Instalar PowerBi",
+        "completada": true
+    },
+    {
+        "id": 4,
+        "tarea": "Mtto a Computadora",
+        "completada": true
+    },
+    {
+        "id": 5,
+        "tarea": "Revisar Redes",
+        "completada": true
+    }
+]
