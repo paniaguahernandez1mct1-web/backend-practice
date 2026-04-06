@@ -1,0 +1,9 @@
+app:
+  nombre: Task CLI
+  version: 1.0
+
+  archivo_tareas: tareas.json
+
+  mensajes:
+    bienvenida: "Bienvenido a tu gestor de tareas"
+    despedida: "Hasta luego"
