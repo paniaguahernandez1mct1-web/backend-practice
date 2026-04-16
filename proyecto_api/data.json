@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Aprender FastAPI PRO",
+        "completada": true,
+        "id": 1
+    },
+    {
+        "titulo": "Limpiar computadora",
+        "completada": false,
+        "id": 2
+    },
+    {
+        "titulo": "Limpiar cuarto",
+        "completada": true,
+        "id": 3
+    },
+    {
+        "titulo": "Aprender Python PRO",
+        "completada": true,
+        "id": 5
+    },
+    {
+        "titulo": "Aprender Ingl\u00e9s",
+        "completada": false,
+        "id": 6
+    },
+    {
+        "titulo": "Aprender Volar",
+        "completada": false,
+        "id": 7
+    }
+]
